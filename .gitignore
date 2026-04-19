@@ -1,0 +1,16 @@
+# Expo local runtime folder (should not be committed)
+.expo/
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# SSL certificates (auto-generated)
+.certs/
+
+# OS files
+.DS_Store
+Thumbs.db
