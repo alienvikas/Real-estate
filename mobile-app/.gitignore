@@ -1,0 +1,58 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp
+.pnp.js
+
+# Build
+dist/
+build/
+.gradle
+local.properties
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# React Native
+android/build
+ios/Pods
+ios/.symlinks
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter-Debug.xcconfig
+ios/Flutter/Flutter-Release.xcconfig
+
+# Watchman
+.watchmanconfig
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Misc
+*.bak
+*.orig
+.parcel-cache
+.expo-shared/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+.env
